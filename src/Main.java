@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 // Created by Robert B - August 2018
 // The game is designed to take a list of movies (movies.txt), and play hangman with a random movie name.
-// The program is designed to work with any list of movie, and is seemingly reusable.
+// The program is designed to work with any list of movies, and is seemingly reusable.
 // Enjoy :)
 public class Main {
 
